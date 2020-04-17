@@ -1,0 +1,11 @@
+E:\Programming\C#\Worksheets\HelloYou\obj\Debug\netcoreapp3.1\HelloYou.csprojAssemblyReference.cache
+E:\Programming\C#\Worksheets\HelloYou\obj\Debug\netcoreapp3.1\HelloYou.AssemblyInfoInputs.cache
+E:\Programming\C#\Worksheets\HelloYou\obj\Debug\netcoreapp3.1\HelloYou.AssemblyInfo.cs
+E:\Programming\C#\Worksheets\HelloYou\bin\Debug\netcoreapp3.1\HelloYou.exe
+E:\Programming\C#\Worksheets\HelloYou\bin\Debug\netcoreapp3.1\HelloYou.deps.json
+E:\Programming\C#\Worksheets\HelloYou\bin\Debug\netcoreapp3.1\HelloYou.runtimeconfig.json
+E:\Programming\C#\Worksheets\HelloYou\bin\Debug\netcoreapp3.1\HelloYou.runtimeconfig.dev.json
+E:\Programming\C#\Worksheets\HelloYou\bin\Debug\netcoreapp3.1\HelloYou.dll
+E:\Programming\C#\Worksheets\HelloYou\bin\Debug\netcoreapp3.1\HelloYou.pdb
+E:\Programming\C#\Worksheets\HelloYou\obj\Debug\netcoreapp3.1\HelloYou.dll
+E:\Programming\C#\Worksheets\HelloYou\obj\Debug\netcoreapp3.1\HelloYou.pdb

@@ -1,0 +1,9 @@
+E:\Programming\C#\Worksheets\NameThatAnimal\obj\Debug\NameThatAnimal.csprojAssemblyReference.cache
+E:\Programming\C#\Worksheets\NameThatAnimal\obj\Debug\NameThatAnimal.Form1.resources
+E:\Programming\C#\Worksheets\NameThatAnimal\obj\Debug\NameThatAnimal.Properties.Resources.resources
+E:\Programming\C#\Worksheets\NameThatAnimal\obj\Debug\NameThatAnimal.csproj.GenerateResource.cache
+E:\Programming\C#\Worksheets\NameThatAnimal\bin\Debug\NameThatAnimal.exe.config
+E:\Programming\C#\Worksheets\NameThatAnimal\bin\Debug\NameThatAnimal.exe
+E:\Programming\C#\Worksheets\NameThatAnimal\bin\Debug\NameThatAnimal.pdb
+E:\Programming\C#\Worksheets\NameThatAnimal\obj\Debug\NameThatAnimal.exe
+E:\Programming\C#\Worksheets\NameThatAnimal\obj\Debug\NameThatAnimal.pdb

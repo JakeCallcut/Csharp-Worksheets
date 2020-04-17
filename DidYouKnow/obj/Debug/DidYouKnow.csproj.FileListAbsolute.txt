@@ -1,0 +1,9 @@
+E:\Programming\C#\Worksheets\DidYouKnow\obj\Debug\DidYouKnow.csprojAssemblyReference.cache
+E:\Programming\C#\Worksheets\DidYouKnow\obj\Debug\DidYouKnow.Form1.resources
+E:\Programming\C#\Worksheets\DidYouKnow\obj\Debug\DidYouKnow.Properties.Resources.resources
+E:\Programming\C#\Worksheets\DidYouKnow\obj\Debug\DidYouKnow.csproj.GenerateResource.cache
+E:\Programming\C#\Worksheets\DidYouKnow\bin\Debug\DidYouKnow.exe.config
+E:\Programming\C#\Worksheets\DidYouKnow\bin\Debug\DidYouKnow.exe
+E:\Programming\C#\Worksheets\DidYouKnow\bin\Debug\DidYouKnow.pdb
+E:\Programming\C#\Worksheets\DidYouKnow\obj\Debug\DidYouKnow.exe
+E:\Programming\C#\Worksheets\DidYouKnow\obj\Debug\DidYouKnow.pdb

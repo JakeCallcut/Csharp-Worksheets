@@ -1,0 +1,9 @@
+E:\Programming\C#\Worksheets\LuckySeven\bin\Debug\LuckySeven.exe.config
+E:\Programming\C#\Worksheets\LuckySeven\bin\Debug\LuckySeven.exe
+E:\Programming\C#\Worksheets\LuckySeven\bin\Debug\LuckySeven.pdb
+E:\Programming\C#\Worksheets\LuckySeven\obj\Debug\LuckySeven.csprojAssemblyReference.cache
+E:\Programming\C#\Worksheets\LuckySeven\obj\Debug\LuckySeven.Form1.resources
+E:\Programming\C#\Worksheets\LuckySeven\obj\Debug\LuckySeven.Properties.Resources.resources
+E:\Programming\C#\Worksheets\LuckySeven\obj\Debug\LuckySeven.csproj.GenerateResource.cache
+E:\Programming\C#\Worksheets\LuckySeven\obj\Debug\LuckySeven.exe
+E:\Programming\C#\Worksheets\LuckySeven\obj\Debug\LuckySeven.pdb
