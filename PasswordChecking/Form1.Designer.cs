@@ -39,7 +39,7 @@
             // btngo
             // 
             this.btngo.Font = new System.Drawing.Font("Sitka Text", 22F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btngo.Location = new System.Drawing.Point(78, 327);
+            this.btngo.Location = new System.Drawing.Point(78, 275);
             this.btngo.Name = "btngo";
             this.btngo.Size = new System.Drawing.Size(206, 72);
             this.btngo.TabIndex = 0;
@@ -50,7 +50,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(103, 94);
+            this.label1.Location = new System.Drawing.Point(103, 71);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(142, 20);
             this.label1.TabIndex = 1;
@@ -59,7 +59,7 @@
             // txtpass
             // 
             this.txtpass.AutoSize = true;
-            this.txtpass.Location = new System.Drawing.Point(103, 226);
+            this.txtpass.Location = new System.Drawing.Point(103, 188);
             this.txtpass.Name = "txtpass";
             this.txtpass.Size = new System.Drawing.Size(159, 20);
             this.txtpass.TabIndex = 2;
@@ -67,7 +67,7 @@
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(47, 260);
+            this.textBox1.Location = new System.Drawing.Point(47, 211);
             this.textBox1.Name = "textBox1";
             this.textBox1.PasswordChar = '*';
             this.textBox1.Size = new System.Drawing.Size(279, 26);
@@ -76,7 +76,7 @@
             // 
             // txtuser
             // 
-            this.txtuser.Location = new System.Drawing.Point(47, 126);
+            this.txtuser.Location = new System.Drawing.Point(47, 94);
             this.txtuser.Name = "txtuser";
             this.txtuser.Size = new System.Drawing.Size(279, 26);
             this.txtuser.TabIndex = 4;
@@ -84,7 +84,7 @@
             // lblatt
             // 
             this.lblatt.AutoSize = true;
-            this.lblatt.Location = new System.Drawing.Point(124, 430);
+            this.lblatt.Location = new System.Drawing.Point(131, 363);
             this.lblatt.Name = "lblatt";
             this.lblatt.Size = new System.Drawing.Size(95, 20);
             this.lblatt.TabIndex = 5;

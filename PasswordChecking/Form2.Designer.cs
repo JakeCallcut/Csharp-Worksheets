@@ -66,6 +66,6 @@
         #endregion
 
         private System.Windows.Forms.Button btnchange;
-        private System.Windows.Forms.Button btnlogon;
+        public System.Windows.Forms.Button btnlogon;
     }
 }

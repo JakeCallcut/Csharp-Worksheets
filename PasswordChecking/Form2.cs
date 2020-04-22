@@ -12,6 +12,7 @@ namespace PasswordChecking
 {
     public partial class Form2 : Form
     {
+        
         public Form2()
         {
             InitializeComponent();
@@ -19,7 +20,10 @@ namespace PasswordChecking
 
         private void btnlogon_Click(object sender, EventArgs e)
         {
-            Form2.Show();               /////////////////////////////////////////////////////////last edit
+            Form1 f1 = new Form1();             //broken, will not execute?
+            f1.Show();
+            Form2 f2 = new Form2(); 
+            this.Hide();
         }
 
         private void btnchange_Click(object sender, EventArgs e)
