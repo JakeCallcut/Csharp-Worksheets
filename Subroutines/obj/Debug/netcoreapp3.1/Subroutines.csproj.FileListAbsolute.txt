@@ -1,0 +1,13 @@
+E:\Programming\C#\Worksheets\Subroutines\bin\Debug\netcoreapp3.1\Subroutines.exe
+E:\Programming\C#\Worksheets\Subroutines\bin\Debug\netcoreapp3.1\Subroutines.deps.json
+E:\Programming\C#\Worksheets\Subroutines\bin\Debug\netcoreapp3.1\Subroutines.runtimeconfig.json
+E:\Programming\C#\Worksheets\Subroutines\bin\Debug\netcoreapp3.1\Subroutines.runtimeconfig.dev.json
+E:\Programming\C#\Worksheets\Subroutines\bin\Debug\netcoreapp3.1\Subroutines.dll
+E:\Programming\C#\Worksheets\Subroutines\bin\Debug\netcoreapp3.1\Subroutines.pdb
+E:\Programming\C#\Worksheets\Subroutines\obj\Debug\netcoreapp3.1\Subroutines.csprojAssemblyReference.cache
+E:\Programming\C#\Worksheets\Subroutines\obj\Debug\netcoreapp3.1\Subroutines.AssemblyInfoInputs.cache
+E:\Programming\C#\Worksheets\Subroutines\obj\Debug\netcoreapp3.1\Subroutines.AssemblyInfo.cs
+E:\Programming\C#\Worksheets\Subroutines\obj\Debug\netcoreapp3.1\Subroutines.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Worksheets\Subroutines\obj\Debug\netcoreapp3.1\Subroutines.dll
+E:\Programming\C#\Worksheets\Subroutines\obj\Debug\netcoreapp3.1\Subroutines.pdb
+E:\Programming\C#\Worksheets\Subroutines\obj\Debug\netcoreapp3.1\Subroutines.genruntimeconfig.cache
