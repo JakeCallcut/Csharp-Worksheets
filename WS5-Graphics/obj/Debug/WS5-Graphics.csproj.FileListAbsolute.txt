@@ -1,9 +1,0 @@
-E:\Programming\C#\Worksheets\WS5-Graphics\bin\Debug\WS5-Graphics.exe.config
-E:\Programming\C#\Worksheets\WS5-Graphics\bin\Debug\WS5-Graphics.exe
-E:\Programming\C#\Worksheets\WS5-Graphics\bin\Debug\WS5-Graphics.pdb
-E:\Programming\C#\Worksheets\WS5-Graphics\obj\Debug\WS5-Graphics.csprojAssemblyReference.cache
-E:\Programming\C#\Worksheets\WS5-Graphics\obj\Debug\WS5_Graphics.Form1.resources
-E:\Programming\C#\Worksheets\WS5-Graphics\obj\Debug\WS5_Graphics.Properties.Resources.resources
-E:\Programming\C#\Worksheets\WS5-Graphics\obj\Debug\WS5-Graphics.csproj.GenerateResource.cache
-E:\Programming\C#\Worksheets\WS5-Graphics\obj\Debug\WS5-Graphics.exe
-E:\Programming\C#\Worksheets\WS5-Graphics\obj\Debug\WS5-Graphics.pdb

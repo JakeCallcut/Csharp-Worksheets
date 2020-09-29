@@ -34,6 +34,7 @@
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.txtuser = new System.Windows.Forms.TextBox();
             this.lblatt = new System.Windows.Forms.Label();
+            this.lblacc = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // btngo
@@ -84,17 +85,27 @@
             // lblatt
             // 
             this.lblatt.AutoSize = true;
-            this.lblatt.Location = new System.Drawing.Point(131, 363);
+            this.lblatt.Location = new System.Drawing.Point(119, 364);
             this.lblatt.Name = "lblatt";
             this.lblatt.Size = new System.Drawing.Size(95, 20);
             this.lblatt.TabIndex = 5;
             this.lblatt.Text = "Attempts: /3";
+            // 
+            // lblacc
+            // 
+            this.lblacc.AutoSize = true;
+            this.lblacc.Location = new System.Drawing.Point(119, 399);
+            this.lblacc.Name = "lblacc";
+            this.lblacc.Size = new System.Drawing.Size(112, 20);
+            this.lblacc.TabIndex = 6;
+            this.lblacc.Text = "Access Status";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(366, 475);
+            this.Controls.Add(this.lblacc);
             this.Controls.Add(this.lblatt);
             this.Controls.Add(this.txtuser);
             this.Controls.Add(this.textBox1);
@@ -116,6 +127,7 @@
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.TextBox txtuser;
         private System.Windows.Forms.Label lblatt;
+        private System.Windows.Forms.Label lblacc;
     }
 }
 

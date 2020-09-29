@@ -20,10 +20,7 @@ namespace PasswordChecking
 
         private void btnlogon_Click(object sender, EventArgs e)
         {
-            Form1 f1 = new Form1();             //broken, will not execute?
-            f1.Show();
-            Form2 f2 = new Form2(); 
-            this.Hide();
+
         }
 
         private void btnchange_Click(object sender, EventArgs e)
@@ -33,7 +30,9 @@ namespace PasswordChecking
 
         private void btnlogon_Click_1(object sender, EventArgs e)
         {
-
+            var f1 = new Form1();
+            f1.Show();
+            this.Hide();
         }
     }
 }

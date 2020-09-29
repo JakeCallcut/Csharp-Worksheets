@@ -24,8 +24,8 @@ namespace PasswordChecking
 
         private void btngo_Click(object sender, EventArgs e)
         {
-            const string userid = "JakeCallcut";
-            const string password = "Password123";
+            string userid = "JakeCallcut";
+            string password = "Password123";
             int attempts = 0;
 
             do
@@ -34,21 +34,23 @@ namespace PasswordChecking
                 {
                     if (txtpass.Text == password)
                     {
-                        MessageBox.Show("Welcome!", "ACCESS GRANTED");
+                        lblacc.Text = "ACCESS GRANTED";
                     }
                     else
                     {
-                        MessageBox.Show("Incorrect Password", "ACCESS DENIED");
+                        lblacc.Text = "incorrect password, ACCESS DENIED";
                         attempts++;
                     }
 
                 }
                 else
                 {
-                    MessageBox.Show("Incorrect User ID", "ACCESS DENIED");
+                    lblacc.Text = "incorrect userid, ACCESS DENIED";
                     attempts++;
                 }
                 lblatt.Text = "Attempts: " + attempts + "/3";
+                txtuser.Text = "";
+                txtpass.Text = "";            
 
             } while (attempts <= 3);
         }
