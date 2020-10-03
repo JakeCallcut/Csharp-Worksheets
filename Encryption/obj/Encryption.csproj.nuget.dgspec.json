@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Programming\\C#\\Worksheets\\Encryption\\Encryption.csproj": {}
+    "D:\\Programming\\C#\\Worksheets\\Encryption\\Encryption.csproj": {}
   },
   "projects": {
-    "E:\\Programming\\C#\\Worksheets\\Encryption\\Encryption.csproj": {
+    "D:\\Programming\\C#\\Worksheets\\Encryption\\Encryption.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Programming\\C#\\Worksheets\\Encryption\\Encryption.csproj",
+        "projectUniqueName": "D:\\Programming\\C#\\Worksheets\\Encryption\\Encryption.csproj",
         "projectName": "Encryption",
-        "projectPath": "E:\\Programming\\C#\\Worksheets\\Encryption\\Encryption.csproj",
-        "packagesPath": "C:\\Users\\Jake\\.nuget\\packages\\",
-        "outputPath": "E:\\Programming\\C#\\Worksheets\\Encryption\\obj\\",
+        "projectPath": "D:\\Programming\\C#\\Worksheets\\Encryption\\Encryption.csproj",
+        "packagesPath": "C:\\Users\\15JCallcut\\.nuget\\packages\\",
+        "outputPath": "D:\\Programming\\C#\\Worksheets\\Encryption\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Jake\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\15JCallcut\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
