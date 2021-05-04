@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\C#\\Worksheets\\Files\\Files.csproj": {}
+    "D:\\Programming\\C#\\Searching\\Searching.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\C#\\Worksheets\\Files\\Files.csproj": {
+    "D:\\Programming\\C#\\Searching\\Searching.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\C#\\Worksheets\\Files\\Files.csproj",
-        "projectName": "Files",
-        "projectPath": "D:\\Programming\\C#\\Worksheets\\Files\\Files.csproj",
+        "projectUniqueName": "D:\\Programming\\C#\\Searching\\Searching.csproj",
+        "projectName": "Searching",
+        "projectPath": "D:\\Programming\\C#\\Searching\\Searching.csproj",
         "packagesPath": "C:\\Users\\15JCallcut\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\C#\\Worksheets\\Files\\obj\\",
+        "outputPath": "D:\\Programming\\C#\\Searching\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\15JCallcut\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -47,12 +47,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

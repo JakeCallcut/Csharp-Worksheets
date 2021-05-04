@@ -1,9 +1,0 @@
-E:\Programming\C#\Worksheets\SearchTechniques\bin\Debug\SearchTechniques.exe.config
-E:\Programming\C#\Worksheets\SearchTechniques\bin\Debug\SearchTechniques.exe
-E:\Programming\C#\Worksheets\SearchTechniques\bin\Debug\SearchTechniques.pdb
-E:\Programming\C#\Worksheets\SearchTechniques\obj\Debug\SearchTechniques.csprojAssemblyReference.cache
-E:\Programming\C#\Worksheets\SearchTechniques\obj\Debug\SearchTechniques.Form1.resources
-E:\Programming\C#\Worksheets\SearchTechniques\obj\Debug\SearchTechniques.Properties.Resources.resources
-E:\Programming\C#\Worksheets\SearchTechniques\obj\Debug\SearchTechniques.csproj.GenerateResource.cache
-E:\Programming\C#\Worksheets\SearchTechniques\obj\Debug\SearchTechniques.exe
-E:\Programming\C#\Worksheets\SearchTechniques\obj\Debug\SearchTechniques.pdb

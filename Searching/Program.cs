@@ -1,0 +1,77 @@
+﻿using System;
+using System.IO.Pipes;
+using System.Security.Permissions;
+using System.Threading.Tasks;
+
+namespace Searching
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Title = "Search Techniques";
+            string[] names = { "Avery", "Billy", "Cameron", "David", "Emma", "Florence", "Grace", "Helena", "Isabelle"};
+
+            while (true)
+            {   
+                for (int i = 0; i < names.Length; i++)
+                {
+                    Console.WriteLine(names[i]);
+                }
+
+                Console.WriteLine("Please enter serial or binary to search using either method");
+                string technique = Console.ReadLine();
+
+                if (technique.ToUpper() == "SERIAL")                            
+                {
+                        Console.WriteLine("What name do you want to search for");
+                        string searchterm = Console.ReadLine();
+
+                        bool found = false;
+                        while (found == false)
+                        {
+                            for (int index = 0; index < names.Length; index++)                  //looping through array
+                            {
+                                if (names[index].ToUpper() == searchterm.ToUpper())                                    //serial search loop
+                                {
+                                    Console.WriteLine("your search term ({0}) was found in position {1}", searchterm, index + 1);
+                                    Console.Beep();
+                                    Console.ReadKey();  
+                                    found = true;
+                                    Console.Clear();
+                                    for (int i = 0; i < names.Length; i++)
+                                    {
+                                        Console.WriteLine(names[i]);
+                                    }
+                                }
+                            }
+
+                            if (found == false)
+                            {
+                                Console.WriteLine("Your search term could not be found");
+                                found = true;
+                                Console.ReadKey();
+                                for (int i = 0; i < names.Length; i++)
+                                {
+                                    Console.WriteLine(names[i]);
+                                }
+                            }
+                        }
+                }
+                else if (technique.ToUpper() == "BINARY")
+                {
+                    Console.WriteLine("What name do you want to search for");
+                    string searchterm = Console.ReadLine();
+
+                    int postition = Array.BinarySearch(names, searchterm);
+                    Console.WriteLine("Your searchterm was found in position {0}",postition + 1);
+
+                }
+                else
+                {
+                    Console.WriteLine("Please enter either serial or binary");
+                }
+            }
+        }
+    }
+}
